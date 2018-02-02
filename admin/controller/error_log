@@ -1,0 +1,1 @@
+[17-Jan-2018 05:34:57 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sololimitlessmob/public_html/admin/utilities/connection.php on line 8

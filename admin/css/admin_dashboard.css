@@ -1,0 +1,68 @@
+.edit_div{
+	border:5px solid grey;
+	width:300px;
+	min-height:10%;
+	text-align: center;
+	background-color: silver;
+	margin:150px auto;
+	padding:10px;
+	/*border-radius: 10px;*/
+}
+.change_status_btn{
+	/*float:left;*/
+	margin: 7px;
+}
+.close_edit_btn{
+	float:right;
+	color:red;
+}
+#img_upload_table{
+	text-align: center;
+}
+.change_pswd_div{
+	max-width:15.5%;
+	/*text-align: center;*/
+	background-color: silver;
+	margin:200px auto;
+	padding: 5px;
+	/*padding:20px;*/
+	/*border-radius: 10px;*/
+}
+.change_pswd_div input{
+	width:100%;
+	float:left;
+}
+.gallery_div{
+	float:left;
+	/*border:1px solid black;*/
+	padding:10px;
+	margin:5 5;
+	/*border-radius: 5px;*/
+	background-color:#f8f8f8;
+}
+.gallery_div img{
+	width:200px;
+	height:200px;
+	margin:5 5;
+}
+.gallery_div button{
+	width:47%;
+	margin-left:5px;
+	/*border:1px solid black;*/
+	border-radius:0px;
+}
+.change_dp_div{
+	max-width:15.5%;
+	/*text-align: center;*/
+	background-color: silver;
+	margin:200px auto;
+	padding: 5px;
+	/*padding:20px;*/
+	/*border-radius: 10px;*/
+}
+.navbar-right li{
+	margin-left:50px;
+}
+.sidebar a{
+	font-weight: bold;
+}
