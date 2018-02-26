@@ -19,7 +19,7 @@ if(@$_POST['login_btn']=='Login'){
   
 	if($count==1){
 		
-		$_SESSION['sessionId']				=	$rows['id'];
+	        $_SESSION['sessionId']			=	$rows['id'];
  		$_SESSION['userSessionName']		=	$rows['username'];
  		$_SESSION['userSessionPassword']	=	$rows['password'];
 
